@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj testingStuf -o C:/Users/imannet/Desktop/test/testingStuf/test1.tfi -lib work C:/Users/imannet/Desktop/test/testingStuf//test1.v -module test1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

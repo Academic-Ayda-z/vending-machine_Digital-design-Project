@@ -1,0 +1,5 @@
+verilog work "get_money.v"
+verilog work "costumer.v"
+verilog work "charge.v"
+verilog work "project.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,6 @@
+verilog isim_temp "get_money.v"
+verilog isim_temp "costumer.v"
+verilog isim_temp "charge.v"
+verilog isim_temp "project.v"
+verilog isim_temp "mytest1.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

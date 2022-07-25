@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+test1 instance_name (
+    .num(num), 
+    .n(n)
+    );
+
+

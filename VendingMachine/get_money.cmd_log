@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj testingStuf -o C:/Users/imannet/Desktop/test/testingStuf/get_money.tfi -lib work C:/Users/imannet/Desktop/test/testingStuf//get_money.v -module get_money -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

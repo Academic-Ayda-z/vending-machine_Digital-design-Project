@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+get_money get_money (
+    .clk(clk), 
+    .mode(mode), 
+    .machine_money(machine_money), 
+    .remainig_money(remainig_money), 
+    .error(error)
+    );
+
+

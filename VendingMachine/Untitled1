@@ -1,0 +1,2 @@
+moudule
+reg [3:0] n = num[3:0];
