@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+charge instance_name (
+    .clk(clk), 
+    .mode(mode), 
+    .index(index), 
+    .all_number(all_number), 
+    .add(add), 
+    .clk(clk), 
+    .all_number(all_number), 
+    .index_type(index_type), 
+    .error(error), 
+    .all_num(all_num)
+    );
+
+

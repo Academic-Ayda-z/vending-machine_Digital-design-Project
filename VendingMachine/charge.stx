@@ -1,0 +1,62 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/imannet/Desktop/test/testingStuf/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/imannet/Desktop/test/testingStuf/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> Reading design: charge.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "C:\Users\imannet\Desktop\test\testingStuf\charge.v" into library work
+Parsing module <charge>.
+WARNING:HDLCompiler:751 - "C:\Users\imannet\Desktop\test\testingStuf\charge.v" Line 27: Redeclaration of ansi port clk is not allowed
+ERROR:HDLCompiler:711 - "C:\Users\imannet\Desktop\test\testingStuf\charge.v" Line 27: Found more than one declaration of port <clk>.
+INFO - You can change the severity of this error message to warning using switch -change_error_to_warning "HDLCompiler:711"
+WARNING:HDLCompiler:751 - "C:\Users\imannet\Desktop\test\testingStuf\charge.v" Line 28: Redeclaration of ansi port all_number is not allowed
+ERROR:HDLCompiler:711 - "C:\Users\imannet\Desktop\test\testingStuf\charge.v" Line 28: Found more than one declaration of port <all_number>.
+INFO - You can change the severity of this error message to warning using switch -change_error_to_warning "HDLCompiler:711"
+ERROR:HDLCompiler:329 - "C:\Users\imannet\Desktop\test\testingStuf\charge.v" Line 34: Target <number_of_goods> of concurrent assignment or output port connection should be a net type.
+ERROR:HDLCompiler:44 - "C:\Users\imannet\Desktop\test\testingStuf\charge.v" Line 50: index_type is not a constant
+ERROR:HDLCompiler:329 - "C:\Users\imannet\Desktop\test\testingStuf\charge.v" Line 51: Target <all_num> of concurrent assignment or output port connection should be a net type.
+ERROR:HDLCompiler:598 - "C:\Users\imannet\Desktop\test\testingStuf\charge.v" Line 21: Module <charge> ignored due to previous errors.
+Verilog file C:\Users\imannet\Desktop\test\testingStuf\charge.v ignored due to errors
+--> 
+
+Total memory usage is 4479576 kilobytes
+
+Number of errors   :    6 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,20 @@
+
+
+
+// Instantiate the module
+customer customer(
+    .clk(clk), 
+    .mode(mode), 
+    .index_type(index_type), 
+    .in_number(in_number), 
+    .money(money), 
+    .saved_money(saved_money), 
+    .all_number(all_number), 
+    .all_price(all_price), 
+    .error(error), 
+    .update_saved_money(update_saved_money), 
+    .remainig_money(remainig_money), 
+    .update_all_number(update_all_number)
+    );
+
+

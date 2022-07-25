@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/imannet/Desktop/test/testingStuf/vending_machine_isim_beh.exe" -prj "C:/Users/imannet/Desktop/test/testingStuf/vending_machine_beh.prj" "work.vending_machine" "work.glbl" 
